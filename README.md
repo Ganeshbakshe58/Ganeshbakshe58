@@ -2,7 +2,7 @@
 <img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="13%" height="21%" style="display:inline;">
 
 <h1 align="center">Hi 👋, I'm Ganesh Bakshe</h1>
-<h3 align="center">I work as a Full-Stack Developer and am a Student!</h3>
+<h3 align="center">I work as a Electronic and Telecommunication Engineer as well as Full Stack Developer !</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ganeshbakshe58&label=Profile%20views&color=0e75b6&style=flat" alt="ganeshbakshe58" /> </p>
 <p align="left"> <img src=https://github-profile-trophy.vercel.app/?username=ganeshbakshe58&theme=monokai&no-frame=true&&title=MultiLanguage,Commits,Repositories,Followers,Stars,PullRequest,) alt="ganeshbakshe58" /></p>
