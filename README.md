@@ -7,7 +7,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ganeshbakshe58&label=Profile%20views&color=0e75b6&style=flat" alt="ganeshbakshe58" /> </p>
 <p align="left"> <img src=https://github-profile-trophy.vercel.app/?username=ganeshbakshe58&theme=monokai&no-frame=true&&title=MultiLanguage,Commits,Repositories,Followers,Stars,PullRequest,) alt="ganeshbakshe58" /></p>
 
-- 🌱 I’m currently learning **JAVA API's, Angular Js**
+- 🌱 I’m currently learning **Embedded C(STM32), Angular Js**
 
 - 👨‍💻 All of my projects are available at [https://ganeshbakshe.netlify.app/](https://ganeshbakshe.netlify.app/)
 
